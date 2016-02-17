@@ -1,0 +1,22 @@
+{
+  "name": "generator-vanilla-java",
+  "version": "0.0.2",
+  "description": "",
+  "main": "generators/app/index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "keywords": {
+    "yeoman-generator": "^0.20.2"
+  },
+  "files": [
+    "generators/app"
+  ],
+  "dependencies": {
+    "colors": "^1.1.2",
+    "yeoman-generator": "^0.22.5",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+  }
+}

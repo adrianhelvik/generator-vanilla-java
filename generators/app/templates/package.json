@@ -1,0 +1,14 @@
+{
+  "name": "<%= appname %>",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0",
+    "colors": "^1.1.2"
+  }
+}
